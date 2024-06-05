@@ -1,7 +1,7 @@
-Bot Created Via [NFD](https://github.com/LloydAsp/nfd)
+欢迎使用Putin双向机器人 
 
 使用方法：
 
-- 当其他用户给bot发消息，会被转发到bot创建者
-- 用户回复普通文字给转发的消息时，会回复到原消息发送者
-- 用户回复 `/block` ,  `/unblock` ,  `/checkblock` 等命令会执行相关指令， **不会** 回复到原消息发送者
+- 此机器人是Putin双向联系专属的机器人。
+- 请直接在这里发送消息，我第一时间看到后会给你回复。
+- 机器人归属人:Putin (https://t.me/Putin_001)
